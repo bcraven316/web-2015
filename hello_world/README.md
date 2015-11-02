@@ -1,2 +1,2 @@
 # web-fall15
-General Repository
+Basic HTML page
