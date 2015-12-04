@@ -1,0 +1,58 @@
+body {
+	
+	background-color: #C0C0C0;
+	;
+}
+
+h1 {
+	font-size:4em;
+	font-variant:small-caps;
+	color:blue;
+	text-align:center;
+}
+
+.header img {
+		float:left;
+		width:75px;
+		height:75px;
+		text-align:center;
+}
+.Caption {
+		display: block;
+		font-weight:bold;
+		color:white;
+		font-size:1em;
+		
+}
+#console {
+
+}
+#tv {
+/*	background-image: url();
+	background-repeat:no-repeat;
+	background-position: center,center;
+	background-size:1080px 760px;
+	background attachment:fixed*/
+	position: absolute;
+    z-index: -1;
+    top: 50%;
+    margin-top: -480px;
+    left: 50%;
+    margin-left: -640px;
+}
+#TVimg {
+	width: 450px;
+    height: 270px;
+    position: relative;
+    top: 50%;
+    margin-top: -5px;
+    left: 50%;
+    margin-left: -325px;
+}
+#TVCaption {
+		display:block;
+		font-weight:bold;
+		color:white;
+		font-size:2em;
+		text-align:center;
+}
