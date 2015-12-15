@@ -1,0 +1,89 @@
+body {
+	
+	background-color: #C0C0C0;
+	;
+}
+
+h1 {
+	font-size:4em;
+	font-variant:small-caps;
+	color:yellow;
+	text-align:center;
+}
+
+.header img {
+		float:left;
+		padding: 0 25px 25px 0;
+		width:75px;
+		height:75px;
+		text-align:center;
+}
+.Caption {
+		display: block;
+		font-weight:bold;
+		color:white;
+		font-size:1em;
+		
+}
+#console {
+
+}
+#tv {
+/*	background-image: url();
+	background-repeat:no-repeat;
+	background-position: center,center;
+	background-size:1080px 760px;
+	background attachment:fixed*/
+	position:absolute;
+    z-index: -1;
+    top: 50%;
+    margin-top: -480px;
+    left: 50%;
+    margin-left: -640px;
+}
+#tv2 {
+	width: 1080px;
+    	height: 760px;
+
+	position:relative;
+    z-index: -1;
+    top: 25%;
+    margin-top: -445px;
+    left: 55%;
+    margin-left: -640px;
+}
+
+#TVimg {
+	width: 600px;
+    	height: 360px;
+    	top: 20%;
+	left: 50%;
+	position: relative;
+ 	margin-top: -150px;
+   	margin-left: -380px;
+    	padding: 0 25px 25px 0;
+}
+#TVCaption {
+		display:block;
+		font-weight:bold;
+		color:white;
+		font-size:2em;
+		text-align:center;
+		top: 100%;
+		
+		position:relative;
+		margin-left: -70px;
+		margin-top: 200px;
+		padding: 0 25px 25px 0;
+}
+
+#remoteclicker {
+			width: 75px;
+			height: 150px;
+			left: 70%;
+			top: 50%;
+			position: relative;
+			margin-left: -25px;
+			margin-top: -120px;
+			padding: 0 25px 25px 0;
+}
