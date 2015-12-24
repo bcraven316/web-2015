@@ -1,0 +1,36 @@
+body {
+	
+	background-color: #B0E0E6;
+	}
+
+h1 {
+	font-size:4em;
+	font-variant:small-caps;
+	color:red;
+	text-align:center;
+}
+h2 {
+	font-size:6em;
+	font-variant:small-caps;
+	color:blue;
+	text-align:center;
+}
+p {
+	font-size:2em;
+	font-variant:normal;
+	color:yellow;
+	text-align:center;
+}
+
+p1 {
+	font-size:2em;
+	font-variant:normal;
+	color:yellow;
+	text-align:center;
+}
+#coco {
+	width: 320px;
+    	height: 240px;
+    	margin-left: auto;
+	margin-right: auto;
+ }
